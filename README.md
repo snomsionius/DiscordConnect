@@ -12,7 +12,7 @@ It is quite easy and does not require much work.
 5. Paste the ID into the ApplicationID file behind the :.
 6. Add the JAVASCRIPT to the TAPERMONKEY ADD-ON for your browser.
 7. Run Discord.
-8. Run the Python script and copy the SERVER ADRESS to the location inside the JAVASCRIPT file.
+8. Run the .exe and remember the SERVER ADRESS from the NOTIFICATION.
 9. That's it, have fun.
 10. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
 
