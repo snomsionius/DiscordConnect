@@ -9,7 +9,7 @@ It is quite easy and does not require much work.
 2. Create an Application by giving it a name, e.g. "YouTube Music".
 3. Add the YouTube Logo PNG under "Rich Presence -> Art Assets" (Optional).
 4. Copy the Application ID from the GENERAL INFORMATION TAB.
-5. Paste the ID into the code sheet, can't miss the location.
+5. Paste the ID into the ApplicationID file behind the :.
 6. Add the JAVASCRIPT to the TAPERMONKEY ADD-ON for your browser.
 7. Run Discord.
 8. Run the Python script and copy the SERVER ADRESS to the location inside the JAVASCRIPT file.
