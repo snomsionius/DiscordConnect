@@ -56,7 +56,7 @@
     }
 
     // Passe die URL entsprechend an
-    var serverUrl = "http://127.0.0.1:5000/upload"; // Hier ändern, wenn der Server anders konfiguriert ist
+    var serverUrl = "http://YOUR SERVER ADRESS HERE/upload"; // Hier ändern, wenn der Server anders konfiguriert ist
 
     // Funktion zum periodischen Senden der Song-Informationen
     function sendPeriodically() {
