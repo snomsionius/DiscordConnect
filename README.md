@@ -2,10 +2,10 @@
 This project aims to enable users to gain a sort of Discord Rich Presence for YouTube Music since GOOGLE does not make an official integration for Discord.
 
 # Content:
-1. Setup
-2. Customize your experience
-   1. Language
-   2. Auto-start
+### 1. Setup
+### 2. Customize your experience
+   ## 1. Language
+   ## 2. Auto-start
 
       
 # Setup
