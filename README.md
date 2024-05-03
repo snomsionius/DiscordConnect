@@ -2,8 +2,8 @@
 This project aims to enable users to gain a sort of Discord Rich Presence for YouTube Music since GOOGLE does not make an official integration for Discord.
 
 # Content:
-### 1. Setup
-   # Setup
+
+   # 1. Setup
    
       1. Head over to the Discord developer portal : https://discord.com/developers/applications
       2. Create an Application by giving it a name, e.g. "YouTube Music".
