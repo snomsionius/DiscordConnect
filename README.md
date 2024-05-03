@@ -20,11 +20,11 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
 
 ### 2. Customize your experience
    ## 1. Language
-         In the ApplicationID file, change "german" to "english" or vise versa.
+   In the ApplicationID file, change "german" to "english" or vise versa.
 
 
    ## 2. Auto-start
-         In the ApplicationID file, change the 0 to 1 to activate it, or 1 to 0 to deactivate.
+   In the ApplicationID file, change the 0 to 1 to activate it, or 1 to 0 to deactivate.
 
 
    
