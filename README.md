@@ -17,3 +17,16 @@ It is quite easy and does not require much work.
 10. That's it, have fun.
 11. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
 
+
+
+# Customize your experience
+
+### Change language:
+
+In the ApplicationID file, change "german" to "english" or vise versa.
+
+
+### Disable/Enable auto-start:
+
+In the ApplicationID file, change the 0 to 1 to activate it, or 1 to 0 to deactivate.
+
