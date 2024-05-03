@@ -3,12 +3,7 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
 
 # Content:
 ### 1. Setup
-### 2. Customize your experience
-   ## 1. Language
-   ## 2. Auto-start
-
-      
-# Setup
+   # Setup
 
 It is quite easy and does not require much work.
 
@@ -25,6 +20,11 @@ It is quite easy and does not require much work.
 11. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
 
 
+### 2. Customize your experience
+   ## 1. Language
+   ## 2. Auto-start
+
+   
 
 # Customize your experience
 
