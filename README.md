@@ -3,7 +3,7 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
 
 # Content:
 
-### 1. Setup
+# 1. Setup
    ## Setup
    1. Head over to the Discord developer portal : https://discord.com/developers/applications
    2. Create an Application by giving it a name, e.g. "YouTube Music".
@@ -18,7 +18,7 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
    11. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
 
 
-### 2. Customize your experience
+# 2. Customize your experience
    ## 1. Language
    In the ApplicationID file, change "german" to "english" or vise versa.
 
