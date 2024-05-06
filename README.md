@@ -4,7 +4,6 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
 # Content:
 
 # 1. Setup
-   ## Setup
    1. Head over to the Discord developer portal : https://discord.com/developers/applications
    2. Create an Application by giving it a name, e.g. "YouTube Music".
    3. Add the YouTube Logo PNG under "Rich Presence -> Art Assets" (Optional).
