@@ -26,7 +26,13 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
    In the ApplicationID file, change the 0 to 1 to activate it, or 1 to 0 to deactivate.
 
 
-   
+# 3. Make your own integration
+
+As of version 2.1.0 it is possible for everyone to add the music service of your choice   
+to the tool, docs coming soon. Quick: Take the tapermonkey script and change the scraped   
+elements to the fitting elements of your service, e.g. soundcloud. The server will then   
+use these infos and let your discord status display what you are listening to on e.g.   
+soundcloud. Make sure to use the right format to send infos from your browser to the app.   
 
 
 
