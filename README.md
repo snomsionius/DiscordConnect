@@ -39,7 +39,7 @@ soundcloud. Make sure to use the right format to send infos from your browser to
 
 Support for more than music is planned. Currently, other modes are being developed.   
 
-# What can you expect?   
+## What can you expect?   
 
 - Modes to choose, influence discord "activity"
 - It will be possible to download app files via http connection.
