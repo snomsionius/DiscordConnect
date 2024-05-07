@@ -34,6 +34,7 @@ elements to the fitting elements of your service, e.g. soundcloud. The server wi
 use these infos and let your discord status display what you are listening to on e.g.   
 soundcloud. Make sure to use the right format to send infos from your browser to the app.   
 
+Support for more than music is planned. Currently, other modes are being developed.
 
 
 
