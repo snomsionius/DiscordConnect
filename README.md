@@ -50,6 +50,6 @@ Support for more than music is planned. Currently, other modes are being develop
 - Customizable Button messages
 - Disable/Enable Button
 
-
+### In short, you can customize your presence using this App to your liking as it will be a kind of framework for your own shenenigans.
 
 
