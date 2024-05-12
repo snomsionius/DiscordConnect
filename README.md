@@ -46,6 +46,7 @@ Support for more than music is planned. Currently, other modes are being develop
 - Modes to choose, influence discord "activity"
 - It will be possible to download app files via http connection.
 - Customizable Button messages
+- Disable/Enable Button
 
 
 
