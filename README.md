@@ -47,6 +47,7 @@ Support for more than music is planned. Currently, other modes are being develop
 
 ## What can you expect?   
 
+- New NAME as its function is MORE than YTMusic now.   
 - Modes to choose, influence discord "activity"
 - It will be possible to download app files via http connection.
 - Customizable Button messages
