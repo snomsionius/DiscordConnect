@@ -12,13 +12,15 @@ This project aims to enable users to gain a sort of Discord Rich Presence for Yo
    2. Create an Application by giving it a name, e.g. "YouTube Music".
    3. Add the YouTube Logo PNG under "Rich Presence -> Art Assets" (Optional).
    4. Copy the Application ID from the GENERAL INFORMATION TAB.
-   5. Paste the ID into the ApplicationID file behind the :.
-   6. Add the JAVASCRIPT to the TAPERMONKEY ADD-ON for your browser.
-   7. Run Discord.
-   8. Run the .exe and remember the SERVER ADRESS from the NOTIFICATION.
-   9. Paste this ADRESS into the TAPERMONKEY SCRIPT.
-   10. That's it, have fun.
-   11. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
+   5. Go to RELEASES and download a version of your choice.   
+   6. Extract the package to a location of your choice and go inside the RESOURCES folder.   
+   7. Paste the ID into the ApplicationID file behind the :.
+   8. Add the JAVASCRIPT to the TAPERMONKEY ADD-ON for your browser.
+   9. Run Discord.
+   10. Run the .exe and remember the SERVER ADRESS from the NOTIFICATION or take it from the CONSOLE WINDOW.
+   11. Paste this ADRESS into the TAPERMONKEY SCRIPT.
+   12. That's it, have fun.
+   13. If you want to, support this project on KO-FI: https://ko-fi.com/hornyboy73263
 
 
 # 2. Customize your experience
