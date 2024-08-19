@@ -1,7 +1,7 @@
 # DiscordConnect - YTMusic-Discord-RPC UNOFFICIAL   
 #### (With 3.0.0) This App can be used as a framework for creating your own activity integrations without doing much coding yourself. You just need to edit a few tags in the tapermonkey script and the app will do the rest for you. Read the instructions for that.    
 
-This project aims to enable users to gain a sort of Discord Rich Presence for YouTube Music since GOOGLE does not make an official integration for Discord.
+This project allows everyone to integreate them into their Discord status. It is highly modular so that everyone can use nearly all sites or web apps in their presence.
 
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
