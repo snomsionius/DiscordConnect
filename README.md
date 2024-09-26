@@ -43,16 +43,5 @@ soundcloud. Make sure to use the right format to send infos from your browser to
 
 # 4. Coming with 3.0.0
 
-Support for more than music is planned. Currently, other modes are being developed.   
-
-## What can you expect?   
-
-- New NAME as its function is MORE than YTMusic now.   
-- Modes to choose, influence discord "activity"
-- It will be possible to download app files via http connection.
-- Customizable Button messages
-- Disable/Enable Button
-
-### In short, you can customize your presence using this App to your liking as it will be a kind of framework for your own shenenigans.
-
-
+#### NOTHING
+# Discord broke every new function with their stupid new app policies
